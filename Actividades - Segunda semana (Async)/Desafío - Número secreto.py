@@ -27,6 +27,6 @@ while numero != numero_secreto:
         print("¡Estás lejos del número secreto! ¡Vuelve a intentarlo!")
     intentos = intentos + 1
     print("...")
-    print("¡Ja, ja! ¡Estás atrapado en mi bucle!\n\n...\n")
+    print("¡Ja, ja! ¡Estás atrapado en mi bucle!\n\n")
     numero = int(input("¡Adelante! ¡Ingresá un número!: "))
 print("\n=== COMPLETADO EN",intentos,"INTENTOS ===","\n¡Felicitaciones! ¡Te libraste de mi bucle!",sep=" ")
