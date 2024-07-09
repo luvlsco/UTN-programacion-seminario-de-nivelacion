@@ -4,7 +4,7 @@ max_num = 0
 min_num = float('inf')
 
 while(contador < 4):
-    num = int(input("Ingresá un número:"))
+    num = int(input("Ingresá un número: "))
     if num < min_num:
         min_num = num
     if num > max_num:
