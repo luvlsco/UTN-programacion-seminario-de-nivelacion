@@ -1,13 +1,13 @@
-#Desafío - Número secreto - Python Unidad 2
+# Desafío - Número secreto - Python Unidad 2
 numero_secreto = int( (3) ** 6 + ((8)**2 + 82) )
 print(
 """
 +================================+
-|    ¡Bienvenido a mi juego!    |
-|   Introduce un número entero  |
-|    y adivina qué número he    |
-|        elegido para ti.       |
-|  ¿Cuál es el número secreto?  |
+|    ¡Bienvenido a mi juego!     |
+|   Introduce un número entero   |
+|    y adivina qué número he     |
+|        elegido para ti.        |
+|  ¿Cuál es el número secreto?   |
 +================================+
 """)
 numero = int(input("¡Adelante! ¡Ingresá un número!: "))
