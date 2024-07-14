@@ -1,4 +1,4 @@
-#Desafío - Desafío Máximos y Mínimos - Python Unidad 2
+# Desafío - Desafío Máximos y Mínimos - Python Unidad 2
 contador = 0
 max_num = 0
 min_num = float('inf')
