@@ -1,8 +1,4 @@
 # Desafío - While Reality Show - Python Unidad 2
-# Lucas Velasco (luvlsco) 
-
-# Este desafío fue completado usando el PDF de la segunda semana (Async)
-# https://github.com/luvlsco/UTN-programacion-seminario-de-nivelacion/blob/main/PDFs/Programaci%C3%B3n%20Inicial%20-%20Semana%202%20(Async).pdf
 
 #==========================================#
 # Enunciado:
